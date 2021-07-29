@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">studentdashboard</string>
+    <string name="student_panel">Student Panel</string>
+    <string name="profile1">Profile</string>
+    <string name="faculty1">Faculty</string>
+    <string name="announcement1">Announcement</string>
+    <string name="attendance1">Attendance</string>
+    <string name="time_table">Time Table</string>
+    <string name="events1">Events</string>
+    <string name="results1">Results</string>
+    <string name="hostel1">Hostel</string>
+    <string name="transport1">Transport</string>
+    <string name="fees1">Fees</string>
+    <string name="profile_1">studprofile</string>
+    <string name="faculty_1">studfaculty</string>
+    <string name="announcement_1">studannouncement</string>
+    <string name="attendance_1">studattendance</string>
+    <string name="timetable_1">studtimetable</string>
+    <string name="events_1">studevents</string>
+    <string name="result_1">studresult</string>
+    <string name="hostel_1">studhostel</string>
+    <string name="transport_1">studtransport</string>
+    <string name="fees_1">studfees</string>
+</resources>
